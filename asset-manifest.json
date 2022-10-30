@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DigitalMedia/static/css/main.43cb393f.css",
+    "main.js": "/DigitalMedia/static/js/main.8cb9f9b0.js",
+    "static/media/banner.jpg": "/DigitalMedia/static/media/banner.b507a49522e929c32858.jpg",
+    "static/media/sec1.jpg": "/DigitalMedia/static/media/sec1.83db181219df1e76f937.jpg",
+    "index.html": "/DigitalMedia/index.html",
+    "main.43cb393f.css.map": "/DigitalMedia/static/css/main.43cb393f.css.map",
+    "main.8cb9f9b0.js.map": "/DigitalMedia/static/js/main.8cb9f9b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43cb393f.css",
+    "static/js/main.8cb9f9b0.js"
+  ]
+}
